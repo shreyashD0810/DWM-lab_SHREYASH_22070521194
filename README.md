@@ -36,9 +36,14 @@ These practicals provided me with real-world exposure to:
 - ETL and transformation pipelines  
 - OLAP for business analytics  
 - Core machine learning models (supervised & unsupervised)
-
 ---
 
+## ⚙️ How to Run
+   ```bash
+git clone https://github.com/shreyashD0810/AI-LAB_SHREYASH_22070521194.git
+cd DWM-lab_SHREYASH_22070521194
+   ```
+---
 ## 📢 Note
 
 This repository is maintained as part of the **Semester VI** coursework for the subject **Data Warehousing and Mining (DWM)**.
